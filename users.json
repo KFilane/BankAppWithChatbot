@@ -1,0 +1,121 @@
+{
+    "Max": {
+        "username": "Max",
+        "password": "$2b$12$IqiHZ.b2/kSGFwZTqQKRx.wc2/lA/RihkL5ZtABFYTdDtkHRZc3Bi",
+        "email": "m@m.com",
+        "first_name": "Max",
+        "last_name": "Ver",
+        "id_number": "1234567891013",
+        "account_type": "cheque",
+        "account_number": 2275495838,
+        "balance": 5050.0,
+        "transactions": [
+            "Maintenance fee of R100.00 deducted at 2024-05-22 09:54:12.767977",
+            "Deposit of R10000.00 at 2024-05-22 09:58:27.588929 (Transaction Fee: R10.00)",
+            "Transferred R1000.00 to 7436062066 on 2024-05-22 10:02:12",
+            "Transferred R800.00 to 7833377121 on 2024-05-24 09:13:18",
+            "Withdrawal of R1000.00 on 2024-05-27 09:39:35",
+            "Transferred R1000.00 to 8636025901 on 2024-06-10 13:30:45",
+            "Transferred R1000.00 to 7263412659 on 2024-06-19 15:44:49"
+        ],
+        "messages": [],
+        "maintenance_fee_deducted": true
+    },
+    "Xola": {
+        "username": "Xola",
+        "password": "$2b$12$nQSeHidnxaI0IVrudg2FG.bziV2hujbF8T2NqC1vOqi9O0JCUOIzK",
+        "email": "a@a.com",
+        "first_name": "Xola",
+        "last_name": "Time",
+        "id_number": "1234567891013",
+        "account_type": "savings",
+        "account_number": 7436062066,
+        "balance": 950.0,
+        "transactions": [
+            "Maintenance fee of R50.00 deducted at 2024-05-22 10:01:31.123039",
+            "Received R1000.00 from 2275495838 on 2024-05-22 10:02:12"
+        ],
+        "messages": [
+            "Money in: R1000.00 (from 2275495838)"
+        ],
+        "maintenance_fee_deducted": true
+    },
+    "Lino": {
+        "username": "Lino",
+        "password": "$2b$12$sZOI.BiERR/Hja123n/jOO78ii60GWfSYSeAGuE4RrXBfR6JT1Rgi",
+        "email": "x@x.com",
+        "first_name": "Lino",
+        "last_name": "Ngce",
+        "id_number": "1234566789123",
+        "account_type": "savings",
+        "account_number": 7833377121,
+        "balance": 750.0,
+        "transactions": [
+            "Maintenance fee of R50.00 deducted at 2024-05-24 09:12:15.822436",
+            "Received R800.00 from 2275495838 on 2024-05-24 09:13:18"
+        ],
+        "messages": [
+            "Money in: R800.00 (from 2275495838)"
+        ],
+        "maintenance_fee_deducted": true
+    },
+    "Kamo": {
+        "username": "Kamo",
+        "password": "$2b$12$YVIK.AHk87jLW3Hiol4h0OY2ByiK73quLeXTLc0eXz0ZrhB2zeJzG",
+        "email": "kamo@gmail.com",
+        "first_name": "Kamo",
+        "last_name": "kamo",
+        "id_number": "9708241089084",
+        "account_type": "savings",
+        "account_number": 8636025901,
+        "balance": 1095.0,
+        "transactions": [
+            "Maintenance fee of R50.00 deducted at 2024-06-10 13:14:14.117017",
+            "Deposit of R100.00 at 2024-06-10 13:16:10.168487 (Transaction Fee: R5.00)",
+            "Received R1000.00 from 2275495838 on 2024-06-10 13:30:45",
+            "Received R50.00 from 7263412659 on 2024-06-19 15:41:12"
+        ],
+        "messages": [
+            "Money in: R1000.00 (from 2275495838)",
+            "Money in: R50.00 (from 7263412659)"
+        ],
+        "maintenance_fee_deducted": true
+    },
+    "neo": {
+        "username": "neo",
+        "password": "$2b$12$CF4UA232gpklSiv6xuEmnex3B0KQ5Xw13.An5dzoRrZA2HjQ6PYEm",
+        "email": "a@a.com",
+        "first_name": "neo",
+        "last_name": "neo",
+        "id_number": "1234567891023",
+        "account_type": "savings",
+        "account_number": 7263412659,
+        "balance": 1140.0,
+        "transactions": [
+            "Maintenance fee of R50.00 deducted at 2024-06-19 15:35:05.007361",
+            "Deposit of R250.00 at 2024-06-19 15:40:46.652288 (Transaction Fee: R5.00)",
+            "Transferred R50.00 to 8636025901 on 2024-06-19 15:41:12",
+            "Received R1000.00 from 2275495838 on 2024-06-19 15:44:49"
+        ],
+        "messages": [
+            "Money in: R1000.00 (from 2275495838)"
+        ],
+        "maintenance_fee_deducted": true
+    },
+    "Amo": {
+        "username": "Amo",
+        "password": "$2b$12$P3hMzc26jOwzAT.yj1YiOuzMlPaUPOU86oqmWm34p2U3FCk3r4g/u",
+        "email": "kamo@gmail.com",
+        "id_number": "9708241089084",
+        "gender": "male",
+        "account_type": "savings",
+        "balance": 950.0,
+        "account_number": 8674844609,
+        "transactions": [
+            "Maintenance fee of R50.00 deducted at 2024-06-28 11:05:48.028442"
+        ],
+        "transaction_fee": 5.0,
+        "maintenance_fee": 50.0,
+        "maintenance_fee_deducted": true
+    }
+}
